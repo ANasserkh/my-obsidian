@@ -1,0 +1,12 @@
+- [x] create new and empty database 
+- [x] create a script to populate the database with data 
+- [ ] fix project versioning (api & ui)
+- [x] all countries must have Arabic title 
+- [x] remove coun_shortcut and replace it with coun_code
+- [x] simplify registration step as the following [[NGO registration process]]
+- [x] Add [[Testing]] ether unit test or integration test
+- [x] Improve the UI of grants search 
+- [x] Update funding search when grant or donors data change.
+- [ ] Change the log level of of release build
+- [x] Donor And Grant must be approved
+- [ ] Help project manager monitor tasks and users by [[a]]
