@@ -10,3 +10,5 @@
 - [ ] Change the log level of of release build
 - [x] Donor And Grant must be approved
 - [ ] Help project manager monitor tasks and users by [[a]]
+- [ ] Add registration page to ngo instead of the website 
+- [ ] create a generic landing page for new client of the system
