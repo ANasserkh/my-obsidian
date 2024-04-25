@@ -3,6 +3,7 @@
 - [x] preper a database image for testing 
 - [ ] using insomnia to test api
 - [ ] search for the help of AI to generate data or to generate test suits
+- [ ] create a small unit test
 
 ### What to test?
 ##### Account
