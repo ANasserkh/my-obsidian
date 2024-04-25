@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Automate tasks' closing and alerts.md",
-                "mode": "source",
+                "file": "Portal365/NGO gate.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Automate tasks' closing and alerts.md",
+            "file": "Portal365/NGO gate.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Automate tasks' closing and alerts.md",
+            "file": "Portal365/NGO gate.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Automate tasks' closing and alerts.md"
+            "file": "Portal365/NGO gate.md"
           }
         }
       }
@@ -158,8 +158,8 @@
   },
   "active": "d8cc87d4ab6105f9",
   "lastOpenFiles": [
-    "Portal365/NGO gate.md",
     "Automate tasks' closing and alerts.md",
+    "Portal365/NGO gate.md",
     "Portal365/NGO registration process.md",
     "Portal365/Testing.md",
     "Rand Ideas.md",
