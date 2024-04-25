@@ -1,0 +1,148 @@
+{
+  "main": {
+    "id": "16414d47e19bcf62",
+    "type": "split",
+    "children": [
+      {
+        "id": "0268cd5dd664bfee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "381744dfff62f9d5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3aa11b2159708de0",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a001cdb7b3cb16e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b57e535dcb5392c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a0cb55376784851e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5c6d6675ed6a5b25",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fc4361a2b91a2f29",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a44908d801edcb7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e87186fda98794a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "db66449538d50156",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5adeba1c8475af34",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3cd8693b8f9feabf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "381744dfff62f9d5",
+  "lastOpenFiles": [
+    "Portal365/Testing.md",
+    "Portal365/NGO gate.md",
+    "Portal365/Automate tasks' closing and alerts.md",
+    "Portal365/NGO registration process.md"
+  ]
+}

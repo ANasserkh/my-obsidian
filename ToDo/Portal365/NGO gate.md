@@ -9,4 +9,4 @@
 - [x] Update funding search when grant or donors data change.
 - [ ] Change the log level of of release build
 - [x] Donor And Grant must be approved
-- [ ] Help project manager monitor tasks and users by [[a]]
+- [ ] Help project manager monitor tasks and users by [[Automate tasks' closing and alerts]]

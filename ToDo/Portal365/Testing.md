@@ -1,4 +1,4 @@
-- [x] using devContainer to spin a test data base for testing 
+ - [x] using devContainer to spin a test data base for testing 
 - [ ] using in-memory database 
 - [x] preper a database image for testing 
 - [ ] using insomnia to test api
