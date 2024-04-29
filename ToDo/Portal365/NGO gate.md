@@ -10,5 +10,7 @@
 - [ ] Change the log level of of release build
 - [x] Donor And Grant must be approved
 - [ ] Help project manager monitor tasks and users by [[Automate tasks' closing and alerts]]
-- [ ] Add registration page to ngo instead of the website 
-- [ ] create a generic landing page for new client of the system
+- [ ] Add registration page to NGO instead of the website 
+- [ ] Create a generic landing page for new client of the system
+- [ ] Create appsetting section for SendGrid template id's
+- [ ] Do clean up for images and static recourse for system-UI and donor-gate-v2
