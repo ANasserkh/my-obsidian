@@ -1,2 +1,2 @@
-- [ ] Create raneen branch on Portal365_V3, System-UI and donor-gate-v3 repositories with appsettings  and .env files for them   
+- [x] Create raneen branch on Portal365_V3, System-UI and donor-gate-v3 repositories with appsettings  and .env files for them   
 - [ ] Create API action for Jazeel on Raneen branch and trigger a UI action on Raneen
