@@ -14,3 +14,5 @@
 - [ ] Create a generic landing page for new client of the system
 - [x] Create appsetting section for SendGrid template id's
 - [ ] Do clean up for images and static recourse for system-UI and donor-gate-v2
+- [x] Add registration page to ngo instead of the website 
+- [ ] create a generic landing page for new client of the system

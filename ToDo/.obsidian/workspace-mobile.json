@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Portal365/Master.md",
+                "file": "Rand Ideas.md",
                 "mode": "preview",
                 "source": false
               }
@@ -122,7 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Portal365/Master.md",
+            "file": "Rand Ideas.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Portal365/Master.md",
+            "file": "Rand Ideas.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -151,7 +151,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Portal365/Master.md"
+            "file": "Rand Ideas.md"
           }
         }
       }
@@ -170,12 +170,12 @@
   },
   "active": "f6816ea6eb851ef2",
   "lastOpenFiles": [
-    "Rand Ideas.md",
-    "Portal365/Master.md",
     "Portal365/Testing.md",
     "Portal365/NGO registration process.md",
     "Portal365/NGO gate.md",
+    "Portal365/Master.md",
     "Portal365/Automate tasks' closing and alerts.md",
+    "Rand Ideas.md",
     "Automate tasks' closing and alerts.md",
     "Untitled",
     "Portal365",
